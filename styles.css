@@ -1,0 +1,11 @@
+.table, th, td {
+    text-align: center;
+    align-items: center;
+    border: 1px solid;
+  }
+  .table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
